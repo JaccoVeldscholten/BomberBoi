@@ -12,3 +12,8 @@ Used parts:
 - Infrared LED TSAL6100 (2x)
 - Infrared Receiver TSOP34838
 - Infrared Receiver TSOP34856
+
+
+### Working
+#### Multiplayer By IR
+![Worked Multiplayer](https://github.com/JaccoVeldscholten/BomberBoi/github/game.gif)
