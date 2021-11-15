@@ -22,8 +22,8 @@ Below are some overviews of elements of the project.
 #### Menu screen
 ![Worked Menu](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/main.jpeg)
 
-#### Play Field Screen
+#### Play Field Screen (With Lifes LEDS)
 ![Worked Field](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/playfield.jpeg)
 
 #### Game Over Screen
-![Worked Game Over screen](https://github.com/JaccoVeldscholten/blob/master/BomberBoi/github/gameover.jpeg)
+![Worked Game Over screen](https://github.com/JaccoVeldscholten/BomberBoi/blob/master//github/gameover.jpeg)
