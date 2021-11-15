@@ -14,16 +14,16 @@ Used parts:
 - Infrared Receiver TSOP34856
 
 
-### Working
+## Images of the project
 Below are some overviews of elements of the project.
-#### Multiplayer By IR
+## Multiplayer By IR
 ![Worked Multiplayer](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/game.gif)
 
-#### Menu screen
+## Menu screen
 ![Worked Menu](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/main.jpeg)
 
-#### Play Field Screen (With Lifes LEDS)
+## Play Field Screen (With Lifes LEDS)
 ![Worked Field](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/playfield.jpeg)
 
-#### Game Over Screen
+## Game Over Screen
 ![Worked Game Over screen](https://github.com/JaccoVeldscholten/BomberBoi/blob/master//github/gameover.jpeg)
