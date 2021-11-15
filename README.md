@@ -14,7 +14,7 @@ Used parts:
 - Infrared Receiver TSOP34856
 
 
-## Images of the project
+# Images of the project
 Below are some overviews of elements of the project.
 ## Multiplayer By IR
 ![Worked Multiplayer](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/game.gif)
