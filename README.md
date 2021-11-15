@@ -15,5 +15,15 @@ Used parts:
 
 
 ### Working
+Below are some overviews of elements of the project.
 #### Multiplayer By IR
-![Worked Multiplayer](https://github.com/JaccoVeldscholten/BomberBoi/github/game.gif)
+![Worked Multiplayer](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/game.gif)
+
+#### Menu screen
+![Worked Menu](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/main.jpeg)
+
+#### Play Field Screen
+![Worked Field](https://github.com/JaccoVeldscholten/BomberBoi/blob/master/github/playfield.jpeg)
+
+#### Game Over Screen
+![Worked Game Over screen](https://github.com/JaccoVeldscholten/blob/master/BomberBoi/github/gameover.jpeg)
