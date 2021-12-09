@@ -1,6 +1,6 @@
 /*
- * Klasse: Level.cpp
- * Beschrijving: Aanpassen level en tekenen van level
+ * Klasse: Player.cpp
+ * Beschrijving: Speelbaar karakter aansturen en tekenen
  * Ontwikkeld door: Jacco Veldscholten (Levens), Briyan Kleijn (Speelbaar maken), Richard Rijerse (Sprites)
 */
 
